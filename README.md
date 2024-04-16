@@ -1,8 +1,19 @@
-# React + Vite
+live url : https://661e834146cd8f1e79d26c90--stellar-cuchufli-54de37.netlify.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+step 1: download zip file and extract or clone the git folder
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+open terminal and enter cd table (go to table folder)
+
+
+step 2: install node modules: **npm i**
+
+
+install dependencies : **react-icons**,**react-infinite-scroll-component**,**tailwind-scrollbar-hide**
+
+
+example: npm i react-icons
+
+
+step-3
+run the app: **yarn run dev**
